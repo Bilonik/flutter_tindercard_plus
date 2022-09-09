@@ -1,7 +1,7 @@
 # flutter_tindercard_plus
 
-[![Pub](https://img.shields.io/pub/v/flutter_tindercard.svg?color=%233CB371)](https://pub.dartlang.org/packages/flutter_tindercard_plus)
-[![Closed](https://img.shields.io/github/issues-closed-raw/ShaunRain/flutter_tindercard.svg?color=%23FF69B4)](https://github.com/tonini46/flutter_tindercard_plus/issues?q=is%3Aissue+is%3Aclosed)
+[![Pub](https://img.shields.io/pub/v/flutter_tindercard_plus.svg?color=%233CB371)](https://pub.dartlang.org/packages/flutter_tindercard_plus)
+[![Closed](https://img.shields.io/github/issues-closed-raw/tonini46/flutter_tindercard_plus.svg?color=%23FF69B4)](https://github.com/tonini46/flutter_tindercard_plus/issues?q=is%3Aissue+is%3Aclosed)
 
 Tinder Card Widget.
 
@@ -24,7 +24,5 @@ Tinder Card Widget.
 6. Use `CardDragUpdateCallback` to get swiping card's detail.
 
 ## Example
-[See Here](./example/example/lib)
+[See Here](./example/lib)
 
-## Async Example
-[See Here](./example/async_data/lib)
